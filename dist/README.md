@@ -1,51 +1,42 @@
-# Coolest Project
+# Very Cool Project
+  ![Apache Badge](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
-![MIT Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ## Description
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta quod reprehenderit autem quam libero omnis cumque quis perspiciatis officiis repellendus minus accusamus, veniam sed qui aspernatur tenetur, neque obcaecati ratione.
 
-## Description
+  ## Table of Contents
+  [Installation](#installation)
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum facilis perferendis aperiam non quos suscipit harum blanditiis dolores voluptate dolorem at possimus sed nulla, ut, pariatur distinctio omnis vel itaque.
+  [Usage](#usage)
 
-## Table of Contents
+  [License](#license)
 
-[Installation](#installation)
+  [Contributing](#contributing)
 
-[Usage](#usage)
+  [Tests](#tests)
+  
+  [Questions](#questions)
 
-[License](#license)
+  ## Instillation
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta quod reprehenderit autem quam libero omnis cumque quis perspiciatis officiis repellendus minus accusamus, veniam sed qui aspernatur tenetur, neque obcaecati ratione.
 
-[Contributing](#contributing)
+  ## Usage
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta quod reprehenderit autem quam libero omnis cumque quis perspiciatis officiis repellendus minus accusamus, veniam sed qui aspernatur tenetur, neque obcaecati ratione.
 
-[Tests](#tests)
+  ## License
+  This project uses the following license:
+    [Apache License](https://opensource.org/licenses/Apache-2.0)
 
-[Questions](#questions)
+  ## Contributing
+  Guidelines for contributing to this project:
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta quod reprehenderit autem quam libero omnis cumque quis perspiciatis officiis repellendus minus accusamus, veniam sed qui aspernatur tenetur, neque obcaecati ratione.
 
-## Instillation
+  ## Tests
+  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta quod reprehenderit autem quam libero omnis cumque quis perspiciatis officiis repellendus minus accusamus, veniam sed qui aspernatur tenetur, neque obcaecati ratione.
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum facilis perferendis aperiam non quos suscipit harum blanditiis dolores voluptate dolorem at possimus sed nulla, ut, pariatur distinctio omnis vel itaque.
+  ## Questions
+  If you have any questions about the project, please reach out via the following:
 
-## Usage
+  [Github Profile](https://github.com/github-example)
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum facilis perferendis aperiam non quos suscipit harum blanditiis dolores voluptate dolorem at possimus sed nulla, ut, pariatur distinctio omnis vel itaque.
-
-## License
-
-This project uses the following license:
-[MIT License](https://opensource.org/licenses/MIT)
-
-## Contributing
-
-Guidelines for contributing to this project:
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum facilis perferendis aperiam non quos suscipit harum blanditiis dolores voluptate dolorem at possimus sed nulla, ut, pariatur distinctio omnis vel itaque.
-
-## Tests
-
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum facilis perferendis aperiam non quos suscipit harum blanditiis dolores voluptate dolorem at possimus sed nulla, ut, pariatur distinctio omnis vel itaque.
-
-## Questions
-
-If you have any questions about the project, please reach out via the following:
-
-[Github Profile](https://github.com/pmacdonald07)
-
-patrickmacdonald07@gmail.com
+  example@example.com
